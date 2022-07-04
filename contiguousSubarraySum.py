@@ -16,7 +16,7 @@ def contiguousSubarraySum(in_array, test_id):
     The function take in input the array and print the 
     contiguous sub-array on the screen with the maximum sum and the related elements within it.
 
-    Time Complexity: O(n) - where n is the size of the array.
+    Linear Time Complexity O(n) - where n is the size of the array.
     
     '''   
     print("\nInput array: {}".format(in_array)) 
